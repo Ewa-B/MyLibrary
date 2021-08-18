@@ -23,7 +23,7 @@
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Your Wish List"
+        android:text="@string/your_wish_list"
         android:textAllCaps="false"
         app:layout_constraintEnd_toEndOf="@+id/btnAlreadyRead"
         app:layout_constraintStart_toStartOf="@+id/btnAlreadyRead"

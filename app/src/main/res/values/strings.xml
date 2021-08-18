@@ -8,4 +8,5 @@
     <string name="activity_favourites">Favourite Books</string>
     <string name="activity_want_to_read">Your Wish List</string>
     <string name="activity_currently_reading">Books You Are Currently Reading</string>
+    <string name="your_wish_list">Your Wish List</string>
 </resources>
